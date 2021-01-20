@@ -56,4 +56,4 @@ indent縮竟
       print("不知道你在輸入什麼")  
       ```
       result 結果
-     https://www.python.org/ 
+     https://www.python.org/          #找查網址
