@@ -1,4 +1,4 @@
-# day4
+# day4成績
 if=如果
 Achievement 成績
 enter 輸入
